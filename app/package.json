@@ -1,0 +1,12 @@
+{
+  "name": "@ibnlanre/functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --typecheck"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
